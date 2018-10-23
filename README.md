@@ -3,3 +3,5 @@ This is a final project for the Compiler Construction course in which we impleme
 
 To show LLVM profiling of a sample code at support/1.bc , use this command
 $ ./buildAndTest.sh 1
+
+This project is a co-work with Hoang Anh Dau
